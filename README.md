@@ -9,3 +9,4 @@ This folder contains a set of Jenkins Groovy scripts for automating tasks relate
 - **sigma-update.groovy**
 - **splunk-alert.groovy**
 - **yml-to-spl.groovy**
+- **yml-to-aql.groovy**
